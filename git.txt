@@ -1,0 +1,15 @@
+Git allows us to keep track of files and the changes made. 
+
+Git init initialized the directory "create the party" and the "master branch" and index
+
+git add <file> movess to staging and moves it to track
+
+git status shows you whats going on with the files in the directory
+
+git commit - m "NOTES" allows to to commit the change and provides information
+
+git log = shows history
+
+git la = list all
+
+man git-log gives you the man page for git log
