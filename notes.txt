@@ -1,0 +1,13 @@
+Create = touch <file> mkdir <directory>
+Read = cat <file> ll <directory>
+Update = cp <file1> <file2> to copy
+       = mv <file1> <file2> to rename
+       = nano to update
+Delete = rm <file> rmdir <directory>
+       = rm *.txt to remove all txt
+       = rm *.* for all files
+
+File Naming
+JavaScript = uses kebab-casing.js
+Ruby = snake_casing.rb
+Java = CamelCasing.java or camelCasing.java
