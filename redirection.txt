@@ -1,0 +1,9 @@
+Redirection works in two ways
+(1) by taking the output of a command and putting
+it into a file
+EXAMPLE: history > notes.txt and
+ 
+(2) by appending information 
+EXAMPLE: history 10 >> notes.txt would
+take the last 10 items in history and add it to the
+notes.txt file

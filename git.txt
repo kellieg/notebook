@@ -1,3 +1,5 @@
+NOTES ON GIT
+
 Git allows us to keep track of files and the changes made. 
 
 Git init initialized the directory "create the party" and the "master branch" and index
